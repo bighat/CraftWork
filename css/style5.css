@@ -1,0 +1,136 @@
+body {
+background-color:#F0F3D3;
+font-family:serif;
+}
+.topbar {
+background-color:#020202;
+width:100%;
+position:fixed;
+padding-left:30px;
+margin-left: -20px;
+margin-top: -12px;
+color: #aa9;
+}
+.topbar h2 {
+text-shadow: 0 1px 0 #FFEB00;
+margin-bottom:5px;
+margin-top: 15px;
+}
+.nav {
+margin-top:-15px;
+margin-right:10px;
+padding-bottom:12px;
+font-family:sans-serif;
+font-weight:bold;
+}
+.nav li {
+display:inline;
+float:right;
+}
+.nav a  { 
+color:#CD9;
+padding:13px;
+}
+.picframe {
+float:left;
+width:72%;
+text-align:center;
+margin-right:20px;
+}
+.container{
+padding-top: 50px;
+padding-left:10px;
+font-size:13pt;
+margin-left:32px;
+width:70%;
+color: #442;
+}
+
+h3 {
+margin-left:30px;
+margin-top:-2px;
+margin-bottom:-1px;
+}
+
+.span9 {
+width:65%;
+float: left;
+margin-left:32px;
+}
+
+.span3 {
+width:20%;
+margin-top:-50px;
+margin-left:40px;
+float: right;
+}
+.span3 h2{
+margin:15px auto;
+}
+.span3 img {
+margin-top:15px; 
+margin-left:36px;
+}
+.leo img {
+-moz-transition:all linear  2s;
+-moz-transform:translate(10px, 0px) rotate(0deg);
+-webkit-transition:all linear 2s;
+-webkit-transform:translate(10px, 0px) rotate(0deg);
+transition:all linear 2s;
+transform:translate(10px, 0px) rotate(0deg);
+
+}
+
+.leo:hover img {
+-moz-transition:all linear  2s;
+-moz-transform:translate(300px, 0px) rotate(360deg);
+-webkit-transition:all linear 2s;
+-webkit-transform:translate(300px, 0px) rotate(360deg);
+transition:all linear 2s;
+transform:translate(300px, 0px) rotate(360deg);
+
+}
+
+a {
+color: #222;
+}
+
+a:hover {
+color: #282;
+}
+a img{
+border:outset 2px grey;
+}
+a:hover img {
+border:inset  2px yellow;
+}
+
+hr{
+height:0;
+max-height: 0;
+display: block;
+padding: 0;
+margin-left: 4px ;
+margin-right: 14px ;
+width: 90%;
+border: none;
+border-top: 1px solid #777;
+border-bottom: 1px solid #fff;
+font-size: 1px;
+clear:both;
+}
+
+p.portfolio {
+margin-top:-30px;
+margin-left:150px;
+margin-bottom:8px;
+}
+p.footer {
+clear:both;
+text-align:center;
+font-size:75%;
+padding-top:2px;
+}
+.smap {
+margin-left:50px;
+}
