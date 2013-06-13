@@ -1,0 +1,14 @@
+
+{% include header.html %}
+
+  <div class="span9">
+      {{ content }}
+  </div>
+<div class="span3 ">
+{% include sidebar.html %}	
+</div>
+
+{% if page.home %} <br/>
+{% else %}
+{% include footer.html %}
+{% endif %}

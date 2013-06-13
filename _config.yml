@@ -1,0 +1,9 @@
+name: "David Hatton; Sculptor, Model Maker and Muralist"
+description: "Sculpture, Model Making and Murals"
+
+url: “http://bighat.github.io/CraftWork”
+
+
+paginate: 5
+markdown: maruku
+permalink: /:title.html
