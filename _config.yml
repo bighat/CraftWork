@@ -2,7 +2,7 @@ name: "David Hatton; Sculptor, Model Maker and Muralist"
 description: "Sculpture, Model Making and Murals"
 
 
-baseurl: /CraftWork
+baseurl: /CraftWork/
 
 paginate: 5
 markdown: maruku
