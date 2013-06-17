@@ -1,0 +1,18 @@
+
+<h3>David Hatton</h3>
+<img src="{{site.baseurl}}pics/thumbs/zodiac.jpg"  width="94" height="140"/>
+<p>A Sculptor/ModelMaker and Scenic Artist for over 25 years.</p>
+<hr/><hr/>
+<b>
+<p><h4><a href="{{page.back}}/index.html#{{page.id}} ">Back to {{page.back}}</a></h4></p> 
+<hr/>
+{% if page.next != 'index' %}
+<p><h4><a href="{{page.back}}/{{page.next}}.html ">Next</a></h4></p>
+{% else %}
+<p>END of {{page.back }}</p>
+<h4><a href = "/portfolio/index.html">Portfolio</a><h4>
+{% endif %} 
+<hr/>
+<p><h4><a href="/sitemap.html"> Site Map</a></h4></p><hr/>
+</b>
+

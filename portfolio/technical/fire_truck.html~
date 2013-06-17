@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Vintage American Fire Truck
-back: /portfolio/technical
+back :  portfolio/technical
 next: mack
 id: 4
 ---

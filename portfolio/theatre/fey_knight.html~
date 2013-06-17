@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Fey Knight
-back: /portfolio/theatre
+back :  portfolio/theatre
 next:  /lucky_luke
 id: 3
 ---

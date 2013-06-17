@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Undersea Scene 2
-back: /portfolio/murals
+back :  portfolio/murals
 next: tiger
 id: 5
 ---

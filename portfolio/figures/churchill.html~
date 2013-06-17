@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Churchill
-back: /portfolio/figures
+back :  portfolio/figures
 next: thatcher
 id: 4
 ---

@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Sumo Wrestler
-back: /portfolio/fineArt1
+back :  portfolio/fineArt1
 next: index
 id: 5
 ---

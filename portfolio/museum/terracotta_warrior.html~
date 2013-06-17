@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Chinese Terracotta Warrior
-back: /portfolio/museum
+back :  portfolio/museum
 next: index
 id: 6
 ---

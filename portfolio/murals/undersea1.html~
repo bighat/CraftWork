@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Undersea Scene 1
-back: /portfolio/murals
+back :  portfolio/murals
 next: undersea2
 id: 4
 ---

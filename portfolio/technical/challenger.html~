@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Challenger Tank
-back: /portfolio/technical
+back :  portfolio/technical
 next: chevrolet
 id: 2
 ---

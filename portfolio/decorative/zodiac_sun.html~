@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Zodiac Plaque
-back: /portfolio/decorative
+back :  portfolio/decorative
 next: zodiac_frame
 id: 1
 ---

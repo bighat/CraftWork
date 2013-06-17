@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Stuka Dive Bomber
-back: /portfolio/technical
+back :  portfolio/technical
 next: knight
 id: 6
 ---

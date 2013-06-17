@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Lion Finial
-back: /portfolio/decorative
+back :  portfolio/decorative
 next: index
 id: 3
 ---

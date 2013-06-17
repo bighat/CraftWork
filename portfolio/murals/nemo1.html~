@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Nemo Mural
-back: /portfolio/murals
+back :  portfolio/murals
 next: index
 id: 8
 ---

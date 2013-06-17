@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Coronation Street's Ena Sharples
-back: /portfolio/figures
+back :  portfolio/figures
 next: tatlock
 id: 6
 ---

@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Bill and Ben
-back: /portfolio/theatre
+back :  portfolio/theatre
 next: /diver
 id: 1
 ---

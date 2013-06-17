@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Michael
-back: /portfolio/fineArt1
+back :  portfolio/fineArt1
 next: clayfig
 id: 3
 ---

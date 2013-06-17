@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Tanning Salon
-back: /portfolio/murals
+back :  portfolio/murals
 next: window
 id: 2
 ---

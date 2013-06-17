@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Roman Bone Comb
-back: /portfolio/museum
+back :  portfolio/museum
 next: dice
 id: 4
 ---

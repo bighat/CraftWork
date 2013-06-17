@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Zodiac Frame
-back: /portfolio/decorative
+back :  portfolio/decorative
 next: lion
 id: 2
 ---

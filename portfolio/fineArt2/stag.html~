@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Stag
-back: /portfolio/fineArt2
+back :  portfolio/fineArt2
 next: tiger_clay
 id: 4
 ---

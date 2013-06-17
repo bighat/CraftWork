@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Margaret Thatcher
-back: /portfolio/figures
+back :  portfolio/figures
 next: ena
 id: 5
 ---

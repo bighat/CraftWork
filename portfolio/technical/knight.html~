@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Medieval Knight
-back: /portfolio/technical
+back :  portfolio/technical
 next: index
 id: 7
 ---

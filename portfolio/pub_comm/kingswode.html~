@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Kingswode School Commission
-back: /portfolio/pub_comm
+back :  portfolio/pub_comm
 next: kwodestone
 id: 1
 ---

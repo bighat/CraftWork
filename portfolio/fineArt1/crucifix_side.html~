@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Crucified Man (Side View)
-back: /portfolio/fineArt1
+back :  portfolio/fineArt1
 next: crucifix
 id: 1
 ---

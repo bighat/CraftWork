@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Giant Hand
-back: /portfolio/theatre
+back :  portfolio/theatre
 next: index
 id: 5
 ---

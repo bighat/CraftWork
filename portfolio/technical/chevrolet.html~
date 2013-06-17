@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Chevrolet Truck
-back: /portfolio/technical
+back :  portfolio/technical
 next: fire_truck
 id: 3
 ---

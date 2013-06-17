@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: Kingswode School Commission,Clay Study for Stone Component
-back: /portfolio/pub_comm
+back :  portfolio/pub_comm
 next: index
 id: 3
 ---
