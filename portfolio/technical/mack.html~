@@ -1,0 +1,17 @@
+---
+layout: gallery
+title: Mack Truck
+back: /portfolio/technical
+next: stuka
+id: 5
+---
+
+ 
+<section class="content">
+	
+
+<img src="/pics/mack.jpg" title="{{page.title}}" width="736" height="532" />
+
+
+
+</section>

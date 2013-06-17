@@ -6,7 +6,7 @@
     <title>{{ site.name }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="description" content="{{ site.description }}"/>
-    <link href="{{site.baseurl}}css/style5.css" rel="stylesheet"/>
+    <link href="/css/style5.css" rel="stylesheet"/>
     
     
   </head>
@@ -17,11 +17,12 @@
           <h2>{{ site.name }}</h2>
           
           <ul class="nav">
-              <li> <a href="{{site.baseurl}}index.html">Home</a></li>
-              <li><a href="{{site.baseurl}}portfolio/index.html">Portfolio</a></li>
-              <li><a href="{{site.baseurl}}contact/index.html">Contact Me</a></li>
-              {% if page.back %} <li><a href="{{site.baseurl}}{{page.back}}/index.html#{{page.id}}">Back</a></li>
-              {% endif %}
+              <li> <a href="/">Home</a></li>
+              <li><a href="/portfolio/index.html">Portfolio</a></li>
+              <li><a href="/contact/index.html">Contact Me</a></li>
+            <!--  {% if page.back %}
+               <li><a href="{{page.back}}/index.html#{{page.id}}">Back</a></li>
+              {% endif %}  -->
           </ul>
           </div>
       

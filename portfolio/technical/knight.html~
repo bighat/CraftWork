@@ -1,0 +1,17 @@
+---
+layout: gallery
+title: Medieval Knight
+back: /portfolio/technical
+next: index
+id: 7
+---
+
+ 
+<section class="content">
+	
+
+<img src="/pics/knight2.jpg" title="{{page.title}}" width="426" height="650" />
+
+
+
+</section>

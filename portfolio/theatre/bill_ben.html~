@@ -1,0 +1,17 @@
+---
+layout: gallery
+title: Bill and Ben
+back: /portfolio/theatre
+next: /diver
+id: 1
+---
+
+ 
+<section class="content">
+	
+
+<img src="/pics/bill_ben.jpg" title="{{page.title}}" width="476" height="717" />
+
+
+
+</section>

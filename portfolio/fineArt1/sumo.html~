@@ -1,0 +1,16 @@
+---
+layout: gallery
+title: Sumo Wrestler
+back: /portfolio/fineArt1
+next: index
+id: 5
+---
+
+ 
+<section class="content">
+	
+
+<img src="/pics/sumo.jpg" title="{{page.title}}" width="609" height="811" />
+
+
+</section>

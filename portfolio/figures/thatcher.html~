@@ -1,0 +1,11 @@
+---
+layout: gallery
+title: Margaret Thatcher
+back: /portfolio/figures
+next: ena
+id: 5
+---
+
+<section class="content">
+<img src="/pics/maggie.jpg" title="{{page.title}}" width="412" height="650" />
+</section>

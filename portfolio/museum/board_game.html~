@@ -1,0 +1,17 @@
+---
+layout: gallery
+title: Roman Board Game
+back: /portfolio/museum
+next: bone_vanity_set
+id: 2
+---
+
+ 
+<section class="content">
+	
+
+<img src="/pics/board_game.jpg" title="{{page.title}}" width="400" height="368" />
+
+
+
+</section>

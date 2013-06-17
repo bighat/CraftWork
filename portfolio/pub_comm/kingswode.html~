@@ -1,0 +1,16 @@
+---
+layout: gallery
+title: Kingswode School Commission
+back: /portfolio/pub_comm
+next: kwodestone
+id: 1
+---
+
+ 
+<section class="content">
+	
+
+<img src="/pics/kingswode.jpg" title="{{page.title}}" width="600" height="800" />
+
+
+</section>

@@ -1,0 +1,16 @@
+---
+layout: gallery
+title: 
+back: /portfolio/personal
+id: 2
+---
+
+ 
+<section class="content">
+	
+
+<img src="/pics/.jpg" title="{{page.title}}" width="" height="" />
+
+
+
+</section>

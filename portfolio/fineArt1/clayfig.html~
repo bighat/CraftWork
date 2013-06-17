@@ -1,0 +1,16 @@
+---
+layout: gallery
+title: Clay Figure
+back: /portfolio/fineArt1
+next: sumo
+id: 4
+---
+
+ 
+<section class="content">
+	
+
+<img src="/pics/clayfig.jpg" title="{{page.title}}" width="601" height="650" />
+
+
+</section>

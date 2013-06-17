@@ -1,0 +1,11 @@
+---
+layout: gallery
+title: Ghandi
+back: /portfolio/figures
+next: churchill
+id: 3
+---
+
+<section class="content">
+<img src="/pics/ghandi.jpg" title="{{page.title}}" width="551" height="610" />
+</section>
